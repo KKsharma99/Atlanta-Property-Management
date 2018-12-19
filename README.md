@@ -8,7 +8,7 @@ CS4400 Team: Kunal Sharma, Amanda Devapiriam, Milcah Ntende, Priya Sharma, and R
 
 
 ## Login
-![Overview](img/gfo1.png)
+![Overview](img/gfo2.png)
 
 ## Sample Page
-![Overview](img/gfo2.PNG)
+![Overview](img/gfo1.png)
