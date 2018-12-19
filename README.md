@@ -1,5 +1,14 @@
 # Atlanta Gardens, Farms, and Orchards
 
-**CS4400 Group 70**
+A property management application. Users can create an account and log their properties. Admin features allow admin users to remove users, approve property listings, etc.
 
-Amanda Devapiriam, Kunal Sharma, Milcah Ntende, Priya Sharma, and Reece Dantin
+Technology Stack: HTML, CSS, JS, PHP, mySQL
+
+CS4400 Team: Kunal Sharma, Amanda Devapiriam, Milcah Ntende, Priya Sharma, and Reece Dantin
+
+
+## Login
+![Overview](img/gfo1.png)
+
+## Sample Page
+![Overview](img/gfo2.PNG)
